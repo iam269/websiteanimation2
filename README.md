@@ -1,67 +1,73 @@
-# Andrei Ionescu — Portofoliu Web Developer
+# Andrei Ionescu — Web Developer Portfolio
 
-Portofoliu personal elegant și modern pentru Andrei Ionescu, dezvoltator web și consultant tehnic.
+An elegant and modern personal portfolio website for Andrei Ionescu, web developer and technical consultant.
 
-## 🌐 Prezentare Generală
+**Live Demo**: https://iam269.github.io/websiteanimation2/
 
-Acest proiect reprezintă un site de prezentare (portofoliu) complet, dezvoltat cu HTML, CSS și JavaScript pur, fără framework-uri externe. Design-ul este rafinat, cu tipografie elegantă și animații subtile care oferă o experiență profesională și memorabilă vizitatorilor.
+![Portfolio Preview](screen.png)
 
-## ✨ Caracteristici
+---
+
+## 🌐 Overview
+
+This project is a complete showcase portfolio website, developed with pure HTML, CSS, and JavaScript without external frameworks. The design is refined, featuring elegant typography and subtle animations that provide a professional and memorable experience for visitors.
+
+## ✨ Features
 
 ### Design & UX
-- **Tipografie premium**: Combinație de Playfair Display (serif), DM Mono (monospace) și DM Sans (sans-serif)
-- **Paletă de culori**: Tonuri de crem, paper, ink și accente de portocaliu/roșu
-- **Navigație sticky**: Bară de navigație fixă cu efect de blur (glassmorphism)
-- **Design responsiv**: Adaptat pentru toate dispozitivele
+- **Premium typography**: Combination of Playfair Display (serif), DM Mono (monospace), and DM Sans (sans-serif)
+- **Color palette**: Cream, paper, ink tones with orange/red accents
+- **Sticky navigation**: Fixed navigation bar with backdrop blur effect (glassmorphism)
+- **Responsive design**: Adapted for all devices
 
-### Animații
-- **Marquee/Ticker**: Bannere animate în partea superioară a paginii
-- **Slide-up animations**: Elementele apar animat la încărcarea paginii
-- **Scroll reveal**: Animații declanșate la scroll folosind IntersectionObserver
-- **Hover effects**: Efecte interactive pe butoane, link-uri și elemente media
+### Animations
+- **Marquee/Ticker**: Animated banners at the top of the page
+- **Slide-up animations**: Elements animate on page load
+- **Scroll reveal**: Scroll-triggered animations using IntersectionObserver
+- **Hover effects**: Interactive effects on buttons, links, and media elements
 
-### Structura Paginii
-1. **Hero Section**: Introducere cu nume, titlu și call-to-action
-2. **Despre Mine**: Prezentare personală și experiență
-3. **Servicii/Proiecte**: Showcase-ul proiectelor realizate
-4. **Contact**: Formular de contact și informații de contact
+### Page Structure
+1. **Hero Section**: Introduction with name, title, and call-to-action
+2. **About Me**: Personal presentation and experience
+3. **Services/Projects**: Showcase of completed projects
+4. **Contact**: Contact form and contact information
 
-## 🛠️ Tehnologii Utilizate
+## 🛠️ Technologies Used
 
-- **HTML5** — Structura semantică a paginii
-- **CSS3** — Stilizare avansată, variabile CSS, animații
-- **JavaScript (ES6+)** — Interactivitate și animații scroll
-- **Google Fonts** — Tipografie externă
+- **HTML5** — Semantic page structure
+- **CSS3** — Advanced styling, CSS variables, animations
+- **JavaScript (ES6+)** — Interactivity and scroll animations
+- **Google Fonts** — External typography
 
-## 🚀 Cum să rulezi proiectul
+## 🚀 How to Run the Project
 
-1. Clonează sau descarcă acest repository
-2. Deschide `index.html` în orice browser modern
-3. Sau utilizează un server local (recomandat pentru performanță optimă):
+1. Clone or download this repository
+2. Open `index.html` in any modern browser
+3. Or use a local server (recommended for optimal performance):
 
 ```bash
-# Cu Python
+# With Python
 python -m http.server 8000
 
-# Sau cu Node.js (dacă ai http-server instalat)
+# Or with Node.js (if you have http-server installed)
 npx http-server
 ```
 
-Apoi accesează `http://localhost:8000` în browser.
+Then access `http://localhost:8000` in your browser.
 
-## 📁 Structura Fișierelor
+## 📁 File Structure
 
 ```
 .
-├── index.html    # Pagina principală (conține și CSS/JS inline)
-├── network.png   # Iconiță favicon
-└── README.md     # Acest fișier
+├── index.html    # Main page (contains inline CSS/JS)
+├── network.png   # Favicon icon
+└── README.md     # This file
 ```
 
-## 🎨 Personalizare
+## 🎨 Customization
 
-### Culori
-Culorile pot fi modificate în secțiunea `:root` din CSS:
+### Colors
+Colors can be modified in the `:root` section of the CSS:
 
 ```css
 :root {
@@ -72,13 +78,13 @@ Culorile pot fi modificate în secțiunea `:root` din CSS:
 }
 ```
 
-### Fonturi
-Fonturile sunt încărcate de la Google Fonts și pot fi schimbate în secțiunea `<link>` din `<head>`.
+### Fonts
+Fonts are loaded from Google Fonts and can be changed in the `<link>` section in `<head>`.
 
-## 📝 Conținut
+## 📝 Content
 
-Textele sunt în limba română și pot fi editate direct în fișierul `index.html` pentru a reflecta informațiile personale dorite.
+The text is in Romanian and can be edited directly in the `index.html` file to reflect the desired personal information.
 
 ---
 
-Creat cu ❤️ de Ionita Aurel Mihai
+Created with ❤️ by Andrei Ionescu
