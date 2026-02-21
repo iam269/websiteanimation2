@@ -87,4 +87,4 @@ The text is in Romanian and can be edited directly in the `index.html` file to r
 
 ---
 
-Created with ❤️ by Andrei Ionescu
+Created with ❤️ by Ionita Aurel Mihai
