@@ -2,7 +2,7 @@
 
 An elegant and modern personal portfolio website for Andrei Ionescu, web developer and technical consultant.
 
-**Live Demo**: https://iam269.github.io/websiteanimation2/
+**Live Demo**: https://itsiamdev.github.io/websiteanimation2/
 
 ![Portfolio Preview](screen.png)
 
